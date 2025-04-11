@@ -22,7 +22,7 @@ Leading all web development initiatives and maintenance for prestigious clients 
 
 - Spearheaded initiative to achieve WCAG 2.1 AA compliance across client projects, significantly improving user accessibility
 - Significantly reduced development time for new UI components through creation of a prompt-based CLI generator tool (https://github.com/bryanbuchs/generator-component) to scaffold Drupal theme components with Storybook integration
-- Developed custom Drupal modules to enhance site functionality and user experience
+- Developed custom Drupal modules and themes to enhance site functionality and user experience
 - Designed and developed multiple Single Page Applications (SPAs) using Vue.js, creating seamless user experiences
 - Implemented Vue.js components to create interactive elements while maintaining accessibility standards
 - Reduced page load time through code optimization and implementation of best practices
