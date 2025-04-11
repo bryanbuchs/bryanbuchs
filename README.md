@@ -29,14 +29,6 @@ Leading all web development initiatives and maintenance for prestigious clients 
 
 ## Highlighted Projects
 
-### Drupal Component Generator CLI Tool
-*Custom development tool for streamlining component creation*
-- Designed and built a prompt-based CLI generator (https://github.com/bryanbuchs/generator-component) to scaffold Drupal theme components
-- Automated creation of component files including HTML/Twig templates, LESS/CSS styling, and JavaScript
-- Integrated with Storybook.js for component visualization and documentation
-- Significantly reduced development time for new UI components
-- Improved code consistency and maintainability across projects
-
 ### Stanford University Websites
 *Drupal-based enterprise websites with focus on accessibility*
 - Stanford Online (https://online.stanford.edu): Implemented custom theme with WCAG 2.1 AA compliance
