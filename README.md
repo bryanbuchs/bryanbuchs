@@ -17,15 +17,23 @@ Seasoned Web Developer with nearly 30 years of experience creating responsive, p
 
 ## Professional Experience
 
-### 2007-Present: Lead Developer, Kapow, Inc.
+### Present: Part-time Developer, Stanford University
 
-Leading all web development initiatives and maintenance for prestigious clients, including Stanford University, PBS, and major cultural institutions.
+Developing new features and maintaining 3 Drupal sites for Stanford University.
 
-- Spearheaded initiative to achieve WCAG 2.1 AA compliance across client projects, significantly improving user accessibility
+- Develop and maintain Drupal-based enterprise websites including Stanford Online, Stanford Enterprise Education, and Stanford CGOE
+- Implement custom Drupal modules and themes to enhance site functionality and user experience
+- Ensure WCAG 2.1 AA compliance across all sites, improving accessibility for a wide range of users
+- Collaborate with stakeholders to deliver responsive, performant, and user-friendly web experiences
+
+### Present: Freelance Developer, Wildwood Digital
+
+Owner and sole developer of Wildwood Digital LLC, providing freelance web development services to clients.
+
+- Deliver custom web solutions with a focus on accessibility, performance, and modern front-end technologies
+- Conduct accessibility audits and implement WCAG 2.1 AA remediations for client projects
 - Significantly reduced development time for new UI components through the creation of a prompt-based CLI generator tool to scaffold Drupal theme components with Storybook integration
-- Developed custom Drupal modules and themes to enhance site functionality and user experience
 - Designed and developed multiple Single Page Applications using Vue.js, creating seamless user experiences
-- Implemented Vue.js components to create interactive elements while maintaining accessibility standards
 - Reduced page load time through code optimization and implementation of best practices
 
 ## Highlighted Projects
